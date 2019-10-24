@@ -1,13 +1,12 @@
-  
 ---
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Raleway&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Great+Vibes|Raleway&display=swap");
 
 body {
-    font-family: 'Great Vibes', cursive;
+  font-family: "Great Vibes", cursive;
 }
 
 h1,
@@ -16,7 +15,6 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Raleway', sans-serif;
-    color: #FFBF00
+  font-family: "Raleway", sans-serif;
+  color: #ffbf00;
 }
-
