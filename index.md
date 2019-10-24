@@ -1,6 +1,6 @@
 # Personalbeschaffung mithilfe von sozialen Medien
 
-![recruiting](03.jpg)
+![recruiting](04.jpg)
 
 ## Einleitung
 
