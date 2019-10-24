@@ -50,6 +50,8 @@ Parment, Anders (2013): Die Generation Y - Mitarbeiter der Zukunft. Herausforder
 
 Sorg, Jürgen (2013): Social Media: Kontakte zählen - und Inhalte. In: Jörg Buckmann (Hg.): Einstellungssache: Personalgewinnung mit Frechmut und Können: Frische Ideen für Personalmarketing und Employer Branding. s.l.: Springer Fachmedien Wiesbaden, S. 211–225.
 
-Ulbricht, Carsten (2017): Social Media Recruiting & Recht - Rechtliche Rahmenbedingungen bei der Recherche und Gewinnung von Mitarbeitern über XING, Facebook & Co. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 333–356. Valkenburg, Jacco (2012): Swedish Armed Forces: Who cares? Hg. v. globalrecruitingroundtable.com.
+Ulbricht, Carsten (2017): Social Media Recruiting & Recht - Rechtliche Rahmenbedingungen bei der Recherche und Gewinnung von Mitarbeitern über XING, Facebook & Co. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 333–356.
+
+Valkenburg, Jacco (2012): Swedish Armed Forces: Who cares? Hg. v. globalrecruitingroundtable.com.
 
 [Blog](Blog.md)
