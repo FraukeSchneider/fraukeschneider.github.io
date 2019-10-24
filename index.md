@@ -12,14 +12,16 @@ Brickwedde, Wolfgang (2017): Recruiting - Erfolge messen und managen In: Ralph D
 
 Dannhäuser, Ralph (2017): Trends im Recruiting. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 1–40.
 
-Diercks, Jo (2012): Fundstück der Woche: Karriere an der Front statt Backoffice in der Großkanzlei. Hg. v. blog.recruitainment.de. Online verfügbar unter https://blog.recrutainment.de/2012/02/25/fundstuck-der-woche-karriere-an-derfront-statt-backoffice-in-der-groskanzlei/.
+Diercks, Jo (2012): Fundstück der Woche: Karriere an der Front statt Backoffice in der Großkanzlei. Hg. v. blog.recruitainment.de.
+[Link](Online verfügbar unter https://blog.recrutainment.de/2012/02/25/fundstuck-der-woche-karriere-an-derfront-statt-backoffice-in-der-groskanzlei/.)
+
 Diercks, Joachim (2013): Recrutainment: Unterhalstam und effizient rekrutieren. In: Jörg Buckmann (Hg.): Einstellungssache: Personalgewinnung mit Frechmut und Können: Frische Ideen für Personalmarketing und Employer Branding. s.l.: Springer Fachmedien Wiesbaden, S. 227–242.
 
 Fenner, Hans (2017): Erfolgsfaktoren Social Media Recruiting im Unternehmen. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 533–564.
 
 Hesse, Gero (2017): Auf dem Weg zum Enterprise 2.0: Digitalisierung, Demografie und Wertewandel als Treiber für Change-Management und Kulturwandel. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 565–590.
 
-Kohlpharma (2015): Erfahrungen & Erfolgsstories. Online verfügbar unter https://www.gudd-unner.de, zuletzt geprüft am 14.10.2019.
+Kohlpharma (2015): Erfahrungen & Erfolgsstories. [Link](Online verfügbar unter https://www.gudd-unner.de, zuletzt geprüft am 14.10.2019.)
 
 Parment, Anders (2013): Die Generation Y - Mitarbeiter der Zukunft. Herausforderung und Erfolgsfaktor für das Pesonalmanagement. Wiesbaden: Gabler.
 
