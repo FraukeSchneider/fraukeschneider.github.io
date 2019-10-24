@@ -6,6 +6,29 @@
 
 [Autor, H. (Jahr): Name des Textes](https://ulrich-anders.eu)
 
+## Literaturverzeichnis
+
+Brickwedde, Wolfgang (2017): Recruiting - Erfolge messen und managen In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 469–486.
+
+Dannhäuser, Ralph (2017): Trends im Recruiting. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 1–40.
+
+Diercks, Jo (2012): Fundstück der Woche: Karriere an der Front statt Backoffice in der Großkanzlei. Hg. v. blog.recruitainment.de. Online verfügbar unter https://blog.recrutainment.de/2012/02/25/fundstuck-der-woche-karriere-an-derfront-statt-backoffice-in-der-groskanzlei/.
+Diercks, Joachim (2013): Recrutainment: Unterhalstam und effizient rekrutieren. In: Jörg Buckmann (Hg.): Einstellungssache: Personalgewinnung mit Frechmut und Können: Frische Ideen für Personalmarketing und Employer Branding. s.l.: Springer Fachmedien Wiesbaden, S. 227–242.
+
+Fenner, Hans (2017): Erfolgsfaktoren Social Media Recruiting im Unternehmen. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 533–564.
+
+Hesse, Gero (2017): Auf dem Weg zum Enterprise 2.0: Digitalisierung, Demografie und Wertewandel als Treiber für Change-Management und Kulturwandel. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 565–590.
+
+Kohlpharma (2015): Erfahrungen & Erfolgsstories. Online verfügbar unter https://www.gudd-unner.de, zuletzt geprüft am 14.10.2019.
+
+Parment, Anders (2013): Die Generation Y - Mitarbeiter der Zukunft. Herausforderung und Erfolgsfaktor für das Pesonalmanagement. Wiesbaden: Gabler.
+
+Sorg, Jürgen (2013): Social Media: Kontakte zählen - und Inhalte. In: Jörg Buckmann (Hg.): Einstellungssache: Personalgewinnung mit Frechmut und Können: Frische Ideen für Personalmarketing und Employer Branding. s.l.: Springer Fachmedien Wiesbaden, S. 211–225.
+
+Ulbricht, Carsten (2017): Social Media Recruiting & Recht - Rechtliche Rahmenbedingungen bei der Recherche und Gewinnung von Mitarbeitern über XING, Facebook & Co. In: Ralph Dannhäuser (Hg.): Praxishandbuch Social Media Recruiting. Experten Know-How, Praxistipps, Rechtshinweise. 3. Auflage. Wiesbaden: Springer Gabler, S. 333–356. Valkenburg, Jacco (2012): Swedish Armed Forces: Who cares? Hg. v. globalrecruitingroundtable.com.
+
+## Einleitung
+
 Dass die Personalbeschaffung in Unternehmen ein grundlegender und sehr bedeutsamer Prozess ist, ist selbsterklärend. Neue Mitarbeiter zu generieren und bereits vorhandene Mitarbeiter an das Unternehmen zu binden ist die Grundvoraussetzung für kompetente und zufriedene Mitarbeiter. Dieses Paper setzt sich mit dem sogenannten Social Media Recruiting auseinander und konzentriert sich dabei hauptsächlich auf die Zielgruppe Generation Y1, da diese durch das Aufwachsen mit digitalen Medien eine besondere Affinität zu sozialen Medien und Netzwerken besitzen. Die Generation Y durchläuft in ihrem Bewerbungsprozess drei verschiedene Phasen. Diese drei Phasen lauten Orientierung, Bewerbung und Entscheidung (vgl. Sorg 2013, S.216). Die drei Phasen des Bewerbungsprozesses und ihre wesentlichen Eigenschaften sind in der folgenden Tabelle nachzuvollziehen und werden in den nächsten drei Abschnitten mithilfe von Beispielen erläutert.
 
 Die Generation Y oder Millenials „umfasst junge Menschen, die zwischen 1984 und 1994 geboren sind. Andere Quellen geben andere Zeitspannen an.“ (Parment 2013, S.15f.)
