@@ -3,9 +3,20 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Raleway&display=swap');
 
 body {
-    font-family: 'Arvo', serif;
+    font-family: 'Great Vibes', cursive;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Raleway', sans-serif;
+    color: #FFBF00
 }
 
