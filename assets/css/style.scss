@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 @import url("https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Poppins&display=swap");
 
 body {
   text-align: justify;
@@ -12,7 +13,10 @@ body {
   font-family: "Big Shoulders Text", cursive;
 }
 
-h1,
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
 h2,
 h3,
 h4,
